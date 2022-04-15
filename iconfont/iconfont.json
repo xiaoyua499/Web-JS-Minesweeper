@@ -1,0 +1,23 @@
+{
+  "id": "3292713",
+  "name": "扫雷",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3874703",
+      "name": "旗子",
+      "font_class": "qizi",
+      "unicode": "e732",
+      "unicode_decimal": 59186
+    },
+    {
+      "icon_id": "11756052",
+      "name": "爆炸圆",
+      "font_class": "V",
+      "unicode": "e705",
+      "unicode_decimal": 59141
+    }
+  ]
+}
